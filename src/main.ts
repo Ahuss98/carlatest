@@ -1,4 +1,4 @@
-import "./style.scss";
+import "./styles.scss";
   
   //   interface Question  {
   //     question: String;
