@@ -1,5 +1,8 @@
 import { defineConfig } from "vite";
 
 export default defineConfig({
-  base: "/carlatest/", // Matches your GitHub Pages repository path
+  base: "/carlatest/",
+  server: {
+    open: true, // Automatically open in browser
+  },
 });
